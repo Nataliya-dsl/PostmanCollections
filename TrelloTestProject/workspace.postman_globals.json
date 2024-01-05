@@ -7,16 +7,6 @@
 			"enabled": true
 		},
 		{
-			"key": "trello_key",
-			"value": "9629bea67c2575b11a2c6d5e68ad579a",
-			"enabled": true
-		},
-		{
-			"key": "trello_token",
-			"value": "0fe00981b71a864cc0239d0046d20f4f41c38ea918d4a10c87e6e3cf8e64ab2d",
-			"enabled": true
-		},
-		{
 			"key": "board_id",
 			"value": "",
 			"enabled": true
